@@ -246,7 +246,61 @@ Tabela 3.
 ## Autoria e agradecimentos
 
 Projeto de iniciação científica de Laura Fernanda de Sousa,
-desenvolvido na Unicamp.
+desenvolvido na Unicamp. Este é apenas o código das imagens e medições, se ficarem
+mais interessados, procure por "Estudo Teórico e Experimental de 
+Cavidades Fotônicas: Uma Abordagem Integrada".
 
-Agradecimentos a Gustavo Nunes pela cessão dos dados
-utilizados na análise espectral da cavidade.
+Agradecimentos ao Professor Doutor Thiago Pedro Mayer Alegre,
+que me incentivou a participar da divulgação científica e da 
+pesquisa, o que me abriu os olhos para um mundo de possibilidades.
+E a Gustavo Nunes Martins por ceder os dados utilizados na análise 
+espectral da cavidade, por ter me ajudado tanto durante todo o 
+processo, igualmente para Ian Carlo Parra Alzate, que se desdobrou de 
+todas as formas para me ajudar nesse processo todo!
+
+Agradeço à FAPESP pelo primeiro projeto que participei e ao financiamento 
+de Jornalismo Científico, ao PIBIC por financiar esta pesquisa/estudo
+que é tão rico e mantém mentes brilhantes no IFGW e na Unicamp! Agradeço ao 
+apoio do Departamento de Física Aplicada, ao Instituto de Física Gleb Wataghin
+à UNICAMP - Universidade Estadual de Campinas, que abre portas e dá oportunidades
+para estudantes do Brasil inteiro!
+
+Gostaria de mencionar,
+
+André Garcia Primo
+Pedro Vinícius Pinho Nascimento
+Ian Carlo Parra Alzarte
+Gustavo Nunes Martins
+Otávio Moreira Paiano
+Miguel Diniz
+Eduardo Gonçalves
+Luiz Peres
+Felipe J. L. dos Santos
+Pedro Vincoletto
+Caique Conde Rodrigues
+Luca Trinchão
+Paulo Felipe Jarschel
+Flávio C. D. de Moraes
+Nick Shilder
+Lucas Woiblet
+Bernardo Costa
+Miguel Nienstedt
+Amanda Vettorazzo Halsman
+Gustavo Corrêa
+
+Aos Professores Doutores que, de alguma forma,
+contribuíram para minha formação:
+Gustavo Silva Wiederhecker
+Newton Cesário Frateschi
+Felippe Alexandre Silva Barbosa
+
+Ao Jornal da Unicamp, Felipe Mateus, que através
+dos meus vídeos conseguimos realizar uma entrevista com
+os professores do IPhD e Photonicamp.
+
+À todos os colaboradores e financiadores na placa de
+entrada do Photonicamp, assim como a participação de todos os
+funcionários envolvidos:
+
+Muito obrigada! Por vocês, a cada dia há o nome de mais uma
+mulher na pesquisa em Física!
