@@ -294,7 +294,8 @@ Felippe Alexandre Silva Barbosa
 
 Ao Jornal da Unicamp, Felipe Mateus, que através
 dos meus vídeos conseguimos realizar uma entrevista com
-os professores do IPhD e Photonicamp.
+os professores do IPhD e Photonicamp, e desenvolver uma matéria
+sobre o projeto da FAPESP.
 
 À todos os colaboradores e financiadores na placa de
 entrada do Photonicamp, assim como a participação de todos os
