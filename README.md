@@ -265,31 +265,31 @@ para estudantes do Brasil inteiro!
 
 Gostaria de mencionar,
 
-André Garcia Primo
-Pedro Vinícius Pinho Nascimento
-Ian Carlo Parra Alzarte
-Gustavo Nunes Martins
-Otávio Moreira Paiano
-Miguel Diniz
-Eduardo Gonçalves
-Luiz Peres
-Felipe J. L. dos Santos
-Pedro Vincoletto
-Caique Conde Rodrigues
-Luca Trinchão
-Paulo Felipe Jarschel
-Flávio C. D. de Moraes
-Nick Shilder
-Lucas Woiblet
-Bernardo Costa
-Miguel Nienstedt
-Amanda Vettorazzo Halsman
+André Garcia Primo,
+Pedro Vinícius Pinho Nascimento,
+Ian Carlo Parra Alzarte,
+Gustavo Nunes Martins,
+Otávio Moreira Paiano,
+Miguel Diniz,
+Eduardo Gonçalves,
+Luiz Peres,
+Felipe J. L. dos Santos,
+Pedro Vincoletto,
+Caique Conde Rodrigues,
+Luca Trinchão,
+Paulo Felipe Jarschel,
+Flávio C. D. de Moraes,
+Nick Shilder,
+Lucas Woiblet,
+Bernardo Costa,
+Miguel Nienstedt,
+Amanda Vettorazzo Halsman e
 Gustavo Corrêa
 
 Aos Professores Doutores que, de alguma forma,
 contribuíram para minha formação:
-Gustavo Silva Wiederhecker
-Newton Cesário Frateschi
+Gustavo Silva Wiederhecker,
+Newton Cesário Frateschi e
 Felippe Alexandre Silva Barbosa
 
 Ao Jornal da Unicamp, Felipe Mateus, que através
