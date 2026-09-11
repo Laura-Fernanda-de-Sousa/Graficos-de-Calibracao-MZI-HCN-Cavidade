@@ -249,7 +249,6 @@ Projeto de iniciação científica de Laura Fernanda de Sousa,
 desenvolvido na Unicamp. Este é apenas o código das imagens e medições, se ficarem
 mais interessados, procure por "Estudo Teórico e Experimental de 
 Cavidades Fotônicas: Uma Abordagem Integrada".
-
 Agradecimentos ao Professor Doutor Thiago Pedro Mayer Alegre,
 que me incentivou a participar da divulgação científica e da 
 pesquisa, o que me abriu os olhos para um mundo de possibilidades.
@@ -257,7 +256,6 @@ E a Gustavo Nunes Martins por ceder os dados utilizados na análise
 espectral da cavidade, por ter me ajudado tanto durante todo o 
 processo, igualmente para Ian Carlo Parra Alzate, que se desdobrou de 
 todas as formas para me ajudar nesse processo todo!
-
 Agradeço à FAPESP pelo primeiro projeto que participei e ao financiamento 
 de Jornalismo Científico, ao PIBIC por financiar esta pesquisa/estudo
 que é tão rico e mantém mentes brilhantes no IFGW e na Unicamp! Agradeço ao 
